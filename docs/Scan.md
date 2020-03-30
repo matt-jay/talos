@@ -1,6 +1,6 @@
 # Scan
 
-The experiment is configured and started through the `Scan()` command. All of the options effecting the experiment, other than the hyperparameters themselves, are configured through the Scan arguments. The most common use-case is where ~10 arguments are invoked.
+The experiment is configured and started through the `Scan()` command. All of the options affecting the experiment, other than the hyperparameters themselves, are configured through the Scan arguments. The most common use-case is where ~10 arguments are invoked.
 
 ## Minimal Example
 
